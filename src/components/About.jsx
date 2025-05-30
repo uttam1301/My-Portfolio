@@ -39,9 +39,7 @@ const About = () => {
           </h3>
 
           <p className='text-base sm:text-lg md:text-lg text-gray-300 mb-10 mt-8 leading-relaxed'>
-            I am full stack developer.  I'm a highly motivated BTech graduate enthusiastic about contributing to a dynamic and innovative team and
-            obtaining a challenging and rewarding role that utilizes my skills and experience to drive success and growth
-            while providing opportunities for professional development and advancement 
+            I'm a passionate and results-driven Full-Stack Web Developer with a strong foundation in modern web technologies. I specialize in building responsive, scalable, and user-friendly web applications, and have hands-on experience developing secure REST APIs and integrating frontend with backend systems. In addition to web development, I have a strong interest in data structures and algorithms, which enhances my problem-solving ability and allows me to write optimized, efficient code.
           </p>
 
           <a 

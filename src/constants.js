@@ -86,7 +86,7 @@ export const projectList = [
         image: newsNest,
         tags: ["HTML", "CSS", "JavaScript", "API"],
         sourceCode: "https://github.com/uttam1301/News-Nest",
-        viewApp: "http://localhost:5173/",
+        viewApp: "https://uttam1301-news-nest.netlify.app/",
     },
     {
         id: 1,
@@ -95,7 +95,7 @@ export const projectList = [
         image: rollReveal,
         tags: ["HTML", "CSS", "JavaScript", "React JS"],
         sourceCode: "https://github.com/uttam1301/Roll-Reveal",
-        viewApp: "http://localhost:5173/",
+        viewApp: "https://uttam1301-roll-reveal.netlify.app/",
     },
     {
         id: 2,
@@ -104,7 +104,7 @@ export const projectList = [
         image: tickIt,
         tags: ["HTML", "CSS", "JavaScript", "React JS"],
         sourceCode: "https://github.com/uttam1301/Tick-It",
-        viewApp: "http://localhost:5173/",
+        viewApp: "https://uttam1301-tick-it.netlify.app/",
     },
     {
         id: 3,
