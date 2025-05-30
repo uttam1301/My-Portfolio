@@ -112,8 +112,8 @@ export const projectList = [
         description: "A portfolio website whcih contains all my professional details which can be customized later",
         image: portfolio,
         tags: ["HTML", "CSS", "JavaScript", "React JS"],
-        sourceCode: "https://github.com/uttam1301",
-        viewApp: "http://localhost:5173/",
+        sourceCode: "https://github.com/uttam1301/My-Portfolio",
+        viewApp: "https://uttam1301-portfolio.netlify.app/",
     },
 ];
 
